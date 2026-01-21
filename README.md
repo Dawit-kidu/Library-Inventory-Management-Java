@@ -1,5 +1,4 @@
-# Library-Inventory-Management-Java
-A Java-based management system using Object-Oriented Programming (OOP) to handle book records, inventory counts, and sorting algorithms.
+Library Inventory Management System (Java)
 📌 Project Overview
 A console-based application that acts as a digital bookshelf to manage library stock. This project demonstrates core Java principles and data structure management without the use of an external database.
 🛠️ Key Programming Concepts
