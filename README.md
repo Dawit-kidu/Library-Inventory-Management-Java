@@ -13,9 +13,10 @@ A console-based application that acts as a digital bookshelf to manage library s
  * Identifies the most expensive and cheapest items in stock.
  * Tracks unique book counts per author using parallel arrays.
 📂 Project Files & Source Code
- * 📄 View Source Code: Main System
- * 📄 View Source Code: Book Class
- * 📥 Download Technical Documentation (PDF)
+* [📄 View Source Code: Main System](./LibraryInventorySystem.java)
+* [📄 View Source Code: Book Class](./Book.java)
+* [📥 Download Technical Documentation (PDF)](./Library%20Inventory%20System%20Documentation.pdf)
+
 🚀 How to Run
  * Ensure you have the Java JDK installed.
  * Download Book.java and LibraryInventorySystem.java into the same folder.
